@@ -1,0 +1,31 @@
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Debug\Mkey.exe
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Debug\Mkey.pdb
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Debug\Mkey.xml
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\Mkey.Resources.resources
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\Mkey.exe
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\Mkey.xml
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\Mkey.pdb
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\GenerateResource.read.1.tlog
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\Mkey.exe
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\Mkey.xml
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\Mkey.pdb
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Debug\Mkey.exe
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Debug\Mkey.pdb
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Debug\Mkey.xml
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\Mkey.Resources.resources
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Concluídos\Mkey\obj\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Release\Mkey.exe
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Release\Mkey.pdb
+D:\Projetos\VB\Templates\Concluídos\Mkey\bin\Release\Mkey.xml
+D:\Projetos\VB\Concluídos\MKEY\obj\Debug\Mkey.exe
+D:\Projetos\VB\Concluídos\MKEY\obj\Debug\Mkey.xml
+D:\Projetos\VB\Concluídos\MKEY\obj\Debug\Mkey.pdb
+D:\Projetos\VB\Concluídos\MKEY\obj\Debug\Mkey.Resources.resources
+D:\Projetos\VB\Concluídos\MKEY\bin\Release\Mkey.exe
+D:\Projetos\VB\Concluídos\MKEY\bin\Release\Mkey.pdb
+D:\Projetos\VB\Concluídos\MKEY\bin\Release\Mkey.xml
+D:\Projetos\VB\Concluídos\MKEY\obj\Debug\Mkey.vbproj.GenerateResource.Cache

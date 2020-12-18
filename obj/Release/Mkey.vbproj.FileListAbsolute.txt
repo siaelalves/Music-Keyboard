@@ -1,0 +1,9 @@
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Release\Mkey.exe
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Release\Mkey.pdb
+D:\E\Project\Visual Basic\Templates\Mkey\bin\Release\Mkey.xml
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\Mkey.Resources.resources
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\Mkey.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\Mkey.exe
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\Mkey.xml
+D:\E\Project\Visual Basic\Templates\Mkey\obj\Release\Mkey.pdb
