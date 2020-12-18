@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mkey
+</name>
+</assembly>
+<members>
+<member name="P:Mkey.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Mkey.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Mkey.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Mkey.Note.FullName">
+	<summary>
+ Full note name.
+ </summary>
+</member><member name="P:Mkey.Note.AbbreviatedName">
+	<summary>
+ Abbreviated note name such as C, D#,F#,G, etc.
+ </summary>
+</member><member name="P:Mkey.Note.imyName">
+	<summary>
+ Note name according .imy format codification.
+ </summary>
+</member><member name="P:Mkey.Note.Note">
+	<summary>
+ Integer value of the note.
+ </summary>
+</member><member name="P:Mkey.Note.NoteFile">
+	<summary>
+ .wav file to be opened that corresponds to note name.
+ </summary>
+</member><member name="P:Mkey.Note.Octave">
+	<summary>
+ Octave of the note.
+ </summary>
+</member><member name="P:Mkey.Note.Beat">
+	<summary>
+ Sets or gets the beats per minute (bpm) of the music.
+ </summary>
+</member><member name="F:Mkey.Note.alterationsignals">
+	<summary>
+ Gets the alteration signals for sharp and flat notes.
+ </summary>
+</member><member name="P:Mkey.Mkey.IsRec">
+	<summary>
+ Determines whether you are saving your music on a .imy file.
+ </summary>
+</member><member name="P:Mkey.Mkey.RecFile">
+	<summary>
+ Gets or sets recording file .imy name.
+ </summary>
+</member>
+</members>
+</doc>
